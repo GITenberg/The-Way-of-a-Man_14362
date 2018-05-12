@@ -1,0 +1,37 @@
+_repo: The-Way-of-a-Man_14362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: 'Emerson Hough was a fascinating figure and prolific author of classic
+  Western novels. Engrossed by the idea of the Wild West, the young law school graduate
+  from the Midwest pulled up stakes and made his way to the rough-and-tumble community
+  of White Oaks, New Mexico to practice law and write. The Way of a Man has all of
+  the elements of Hough''s most successful novels: conflict between good and evil,
+  simmering romance, and a stand-up protagonist who is willing to fight to the death
+  to ...'
+gutenberg_issued: '2004-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Overland journeys to the Pacific -- Fiction'
+- !lcsh 'West (U.S.) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Wagon trains -- Fiction'
+title: The Way of a Man
+url: http://www.gutenberg.org/ebooks/14362
